@@ -1,5 +1,11 @@
 # Advanced_Face_Recognition
 
+## NOTE
+### For using this, clone the repository and in dataSets folder, unzip the files in the same folder. After doing this, simply run the main.py file and have fun. 
+
+### Other 2 files can be used as a reference to understand what the program do and how every steps is executed.
+
+
 ## Installation
 
 ### Requirements
